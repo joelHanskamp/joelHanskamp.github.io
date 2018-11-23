@@ -74,6 +74,10 @@ nav {
     z-index: 500;
 }
 
+footer{
+  text-align: center;
+}
+
 nav a {
     display: inline-block;
     color: #000;
