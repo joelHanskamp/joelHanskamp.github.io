@@ -22,11 +22,19 @@ body{
 }
 
 #lol{
-  margin-left: 300px
+  text-align: center;
+}
+
+#iframe-credly{
+  margin-left: 306px;
+}
+
+#iframe-maps{
+  margin-left: 475px;
 }
 
 iframe{
-  margin-left: 300px;
+  margin-left: 400px;
 }
 
 a {
@@ -55,11 +63,11 @@ header h1 {
 }
 
 h2 {
-  margin-left: 300px;
+  text-align: center;
 }
 
 p{
-  margin-left: 300px;
+  text-align: center;
 }
 
 nav {
