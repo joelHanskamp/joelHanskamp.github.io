@@ -26,15 +26,15 @@ body{
 }
 
 #iframe-credly{
-  margin-left: 306px;
+  margin-left: 6px;
 }
 
 #iframe-maps{
-  margin-left: 475px;
+  margin-left: 150px;
 }
 
 iframe{
-  margin-left: 400px;
+  margin-left: 100px;
 }
 
 a {
@@ -83,6 +83,8 @@ nav {
 
 article{
   border-bottom: 2px solid #a668be;
+  width: 55%;
+  margin: auto;
 }
 
 footer{
